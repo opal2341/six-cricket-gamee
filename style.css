@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #222;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+#scoreboard {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 22px;
+  background: rgba(0,0,0,0.5);
+  padding: 10px 15px;
+  border-radius: 8px;
+  z-index: 10;
+}
